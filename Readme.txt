@@ -1,0 +1,1 @@
+The Musala Soft Test Case project corresponds to the solution of the practical task assigned as part of the application to the position of software quality specialist.
